@@ -1,0 +1,15 @@
+{
+  "name": "expapp",
+  "version": "1.0.0",
+  "description": "express tut for learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"vidhi pal\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
